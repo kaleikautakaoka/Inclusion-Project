@@ -81,7 +81,7 @@ p {
 
 main {
     width: 75%;
-    height: 70%;
+    height: 60%;
     display: inline-block;
     margin-left: 20px;
 }
@@ -95,7 +95,8 @@ aside {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    
+    color: #ffffff;
+    text-align: center;
 }
 
 .benefit {
