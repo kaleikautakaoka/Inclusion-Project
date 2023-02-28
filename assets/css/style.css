@@ -109,6 +109,7 @@ aside {
     text-align: center;
 }
 
+/*I felt that only one .benefit class was necessary*/
 .benefit img {
     display: block;
     margin: 10px auto;
